@@ -3,6 +3,7 @@
   "author": "It's me mario",
   "description": "Me and Luigi vibing",
   "keywords": ["mario", "vibing", "meme", "freecodecamp", "fcc"],
+  "license": "MIT",
   "dependencies": {
     "express": "^4.14.0"
   },
