@@ -1,6 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "It's me mario",
+  "description": "Me and Luigi vibing",
   "dependencies": {
     "express": "^4.14.0"
   },
